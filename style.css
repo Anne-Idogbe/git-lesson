@@ -39,3 +39,11 @@
     margin: 10px 0;
     padding-top: 30px;
 }
+.Blessing{
+    height: 500px;
+    background-color: brown;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-top: 40px;
+}
